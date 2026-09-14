@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Wang Zhenyang 👋
 
-<!--
-**JinGu123123/JinGu123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Python Developer | Interested in Backend & Network Programming
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LAN-chat: A local network chat system built with Python sockets
+- Learning Git & GitHub best practices for professional development
+
+## 🌱 Currently Learning
+
+- Python advanced topics (asyncio, network programming)
+- Git workflow: branching, PR, code review
+- Linux command line tools
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+
+![Jingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jingu123123&show_icons=true&theme=default)
+
+## 📫 How to Reach Me
+
+- GitHub: [@JinGu123123](https://github.com/Jingu123123)
+- Email: GuJin123123@outlook.com
+
+---
+
+⭐️ From [JinGu123123](https://github.com/Jingu123123)
